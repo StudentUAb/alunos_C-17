@@ -28,7 +28,7 @@ Vamos comentar o código em detalhes:
     - Esta classe representa um aluno. Possui construtor, getters e setters para os atributos **`nome`**, **`curso`**, **`matricula`** e **`nota`**. Além disso, possui um método **`imprime`** que imprime os detalhes do aluno na tela.
     - O operador **`<`** também é sobrecarregado para permitir a ordenação dos alunos por matrícula.
 
-Em geral, o código está escrito seguindo boas práticas do C++17 ou posterior, utilizando recursos modernos e mantendo a legibilidade. A implementação das classes **`Lista`** e **`Aluno`** parece adequada e organizada, permitindo uma fácil manipulação de alunos e suas notas.
+Em geral, o código está escrito seguindo boas práticas do C++17 ou posterior, utilizando recursos modernos e mantendo a legibilidade. A implementação das classes **`Lista`** e **`Aluno`** é uma forma adequada e organizada, permitindo uma fácil manipulação de alunos e suas notas.
 
 </p>
 
