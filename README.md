@@ -5,7 +5,8 @@
 
 <p align="center">
 Trabalho em C++
-    
+
+aqui mostramos boas practicas em C++
 Programa de alunos em C++, sobre cadastro de alunos, listagem e ordena lista de alunos por matricula
 </p>
 
